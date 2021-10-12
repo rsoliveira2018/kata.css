@@ -1,0 +1,19 @@
+.image-text {
+  background-image: url("../imgs/image.png");
+  background-repeat: repeat;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  margin-top: 200px;
+  font-size: 100px;
+  text-align: center;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-family: "Steelfish Rg", "helvetica neue", helvetica, arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: #666666;
+}

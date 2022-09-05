@@ -1,1 +1,3 @@
-"# kata.css is a repo for storing for future reference any exercises regarding CSS techniques and practices" 
+# kata.css 
+
+A repo for future referencing to any technique on CSS.
